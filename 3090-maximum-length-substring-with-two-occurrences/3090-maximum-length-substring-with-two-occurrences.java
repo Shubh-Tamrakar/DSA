@@ -1,9 +1,7 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
 
-        HashMap<Character, Integer> map = new HashMap<>();
-
-
+      
         int arr[] = new int[26];
 
         int left = 0;
