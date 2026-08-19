@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubh-Tamrakar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubh-Tamrakar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubh-Tamrakar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubh-Tamrakar/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
