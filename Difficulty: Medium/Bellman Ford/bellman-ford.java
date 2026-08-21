@@ -8,7 +8,7 @@ class Solution {
 
         dist[src] = 0;
 
-        // V - 1 times relaxation
+  
         for (int i = 1; i <= V - 1; i++) {
 
             for (int[] edge : edges) {
