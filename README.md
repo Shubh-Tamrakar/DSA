@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shubh-Tamrakar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Shubh-Tamrakar/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Shubh-Tamrakar/DSA/tree/master/0072-edit-distance) |
+| [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 ## Two Pointers
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubh-Tamrakar/DSA/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubh-Tamrakar/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
