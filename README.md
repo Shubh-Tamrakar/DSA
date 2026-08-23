@@ -194,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubh-Tamrakar/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph Theory
+|  |
+| ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubh-Tamrakar/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
