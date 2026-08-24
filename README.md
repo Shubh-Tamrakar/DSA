@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
@@ -106,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 ## Two Pointers
 |  |
