@@ -1,7 +1,7 @@
 class Solution {
     public int distinctSubseqII(String s) {
 
-        int MOD = 1_000_000_007;
+        int MOD = 1000000007;
 
         long total = 0;
 
