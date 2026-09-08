@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh-Tamrakar/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 ## Two Pointers
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Shubh-Tamrakar/DSA/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
