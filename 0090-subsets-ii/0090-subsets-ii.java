@@ -6,7 +6,7 @@ class Solution {
 
         ans.add(new ArrayList<>(curr));
 
-        if(idx == nums.length) return;
+       // if(idx == nums.length) return;
 
         for (int i = idx; i < nums.length; i++) {
 
