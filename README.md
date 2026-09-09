@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubh-Tamrakar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubh-Tamrakar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -295,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
