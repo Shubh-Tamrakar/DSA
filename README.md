@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shubh-Tamrakar/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubh-Tamrakar/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Shubh-Tamrakar/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubh-Tamrakar/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh-Tamrakar/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Shubh-Tamrakar/DSA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Shubh-Tamrakar/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh-Tamrakar/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Shubh-Tamrakar/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubh-Tamrakar/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
