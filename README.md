@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0120-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Shubh-Tamrakar/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Shubh-Tamrakar/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
