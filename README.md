@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shubh-Tamrakar/DSA/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shubh-Tamrakar/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Shubh-Tamrakar/DSA/tree/master/0146-lru-cache) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
