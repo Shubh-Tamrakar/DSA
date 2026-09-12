@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shubh-Tamrakar/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/Shubh-Tamrakar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
@@ -393,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
