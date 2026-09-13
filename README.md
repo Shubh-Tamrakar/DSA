@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/Shubh-Tamrakar/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0780-reaching-points](https://github.com/Shubh-Tamrakar/DSA/tree/master/0780-reaching-points) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
@@ -413,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Shubh-Tamrakar/DSA/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Shubh-Tamrakar/DSA/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
