@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shubh-Tamrakar/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Shubh-Tamrakar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shubh-Tamrakar/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-reaching-points](https://github.com/Shubh-Tamrakar/DSA/tree/master/0780-reaching-points) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shubh-Tamrakar/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
