@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0835-image-overlap) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shubh-Tamrakar/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0887-super-egg-drop](https://github.com/Shubh-Tamrakar/DSA/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Shubh-Tamrakar/DSA/tree/master/0076-minimum-window-substring) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubh-Tamrakar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubh-Tamrakar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Shubh-Tamrakar/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Knapsack Problem
 |  |
@@ -442,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Shubh-Tamrakar/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
