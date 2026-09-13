@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
+| [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Shubh-Tamrakar/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
