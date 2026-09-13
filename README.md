@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shubh-Tamrakar/DSA/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubh-Tamrakar/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0835-image-overlap) |
