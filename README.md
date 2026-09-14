@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Shubh-Tamrakar/DSA/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0887-super-egg-drop](https://github.com/Shubh-Tamrakar/DSA/tree/master/0887-super-egg-drop) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
