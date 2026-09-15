@@ -5,36 +5,33 @@ class Solution {
 
         long[] prefix = new long[n + 1];
 
+        // Step 1: Prefix Sum
         for (int i = 0; i < n; i++) {
             prefix[i + 1] = prefix[i] + nums[i];
         }
 
-        int[] deque = new int[n + 1];
-
-        int front = 0;
-        int back = 0;
+        Deque<Integer> dq = new ArrayDeque<>();
 
         int ans = n + 1;
 
         for (int i = 0; i <= n; i++) {
 
-            // 1. Check if valid subarray
-            while (front < back &&
-                   prefix[i] - prefix[deque[front]] >= k) {
+            // Step 2: Check valid subarray
+            while (!dq.isEmpty() &&
+                   prefix[i] - prefix[dq.peekFirst()] >= k) {
 
-                ans = Math.min(ans, i - deque[front]);
-                front++;
+                ans = Math.min(ans, i - dq.pollFirst());
             }
 
-            // 2. Remove useless previous prefix sums
-            while (front < back &&
-                   prefix[i] <= prefix[deque[back - 1]]) {
+            // Step 3: Remove useless elements
+            while (!dq.isEmpty() &&
+                   prefix[i] <= prefix[dq.peekLast()]) {
 
-                back--;
+                dq.pollLast();
             }
 
-            // 3. Add current index
-            deque[back++] = i;
+            // Step 4: Current index add
+            dq.addLast(i);
         }
 
         return ans == n + 1 ? -1 : ans;
