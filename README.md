@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shubh-Tamrakar/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shubh-Tamrakar/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/Shubh-Tamrakar/DSA/tree/master/0780-reaching-points) |
 | [0836-rectangle-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/Shubh-Tamrakar/DSA/tree/master/0887-super-egg-drop) |
+| [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh-Tamrakar/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0836-rectangle-overlap) |
+| [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 ## Bitmask
 |  |
 | ------- |
