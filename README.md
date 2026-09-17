@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Shubh-Tamrakar/DSA/tree/master/0134-gas-station) |
+| [0238-product-of-array-except-self](https://github.com/Shubh-Tamrakar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shubh-Tamrakar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh-Tamrakar/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
