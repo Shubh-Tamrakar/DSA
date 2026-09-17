@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
+| [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh-Tamrakar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0887-super-egg-drop](https://github.com/Shubh-Tamrakar/DSA/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0836-rectangle-overlap) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
