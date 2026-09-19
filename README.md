@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Shubh-Tamrakar/DSA/tree/master/0887-super-egg-drop) |
 | [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Shubh-Tamrakar/DSA/tree/master/1041-robot-bounded-in-circle) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shubh-Tamrakar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh-Tamrakar/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubh-Tamrakar/DSA/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shubh-Tamrakar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bitmask
 |  |
 | ------- |
