@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Shubh-Tamrakar/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubh-Tamrakar/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Shubh-Tamrakar/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubh-Tamrakar/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Shubh-Tamrakar/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Shubh-Tamrakar/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
