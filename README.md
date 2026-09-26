@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubh-Tamrakar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubh-Tamrakar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubh-Tamrakar/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubh-Tamrakar/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubh-Tamrakar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shubh-Tamrakar/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
