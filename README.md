@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shubh-Tamrakar/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shubh-Tamrakar/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shubh-Tamrakar/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -566,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shubh-Tamrakar/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
