@@ -4,18 +4,18 @@ class Solution {
 
         int n = s.length();
 
-        int[] count = new int[26];
+        int[] freq = new int[26];
 
         for (char ch : s.toCharArray()) {
-            count[ch - 'a']++;
+            freq[ch - 'a']++;
         }
 
-        // Check whether palindrome is possible
+        // More than one odd frequency -> palindrome impossible
         int odd = 0;
         char middle = 0;
 
         for (int i = 0; i < 26; i++) {
-            if (count[i] % 2 == 1) {
+            if (freq[i] % 2 == 1) {
                 odd++;
                 middle = (char) ('a' + i);
             }
@@ -25,104 +25,83 @@ class Solution {
             return "";
         }
 
-        // count[i] now represents how many of this character
-        // we need in the LEFT HALF
+        // We only need half of every character
+        int[] half = new int[26];
+
         for (int i = 0; i < 26; i++) {
-            count[i] /= 2;
+            half[i] = freq[i] / 2;
         }
 
         StringBuilder left = new StringBuilder();
 
-        int halfLength = n / 2;
+        if (dfs(0, half.length, half, left, target, middle, n)) {
 
-        for (int pos = 0; pos < halfLength; pos++) {
+            StringBuilder ans = new StringBuilder();
 
-            boolean found = false;
+            ans.append(left);
 
-            // Try smallest possible character
-            for (int ch = 0; ch < 26; ch++) {
-
-                if (count[ch] == 0) {
-                    continue;
-                }
-
-                // Choose this character temporarily
-                count[ch]--;
-                left.append((char) ('a' + ch));
-
-                // Check maximum possible completion
-                if (canMakeGreater(left, count, middle, target, n)) {
-                    found = true;
-                    break;
-                }
-
-                // Undo choice
-                left.deleteCharAt(left.length() - 1);
-                count[ch]++;
+            if (n % 2 == 1) {
+                ans.append(middle);
             }
 
-            if (!found) {
-                return "";
+            for (int i = left.length() - 1; i >= 0; i--) {
+                ans.append(left.charAt(i));
             }
+
+            return ans.toString();
         }
 
-        String leftHalf = left.toString();
-
-        StringBuilder answer = new StringBuilder();
-
-        answer.append(leftHalf);
-
-        if (n % 2 == 1) {
-            answer.append(middle);
-        }
-
-        answer.append(new StringBuilder(leftHalf).reverse());
-
-        String result = answer.toString();
-
-        return result.compareTo(target) > 0 ? result : "";
+        return "";
     }
 
-
-    private boolean canMakeGreater(
-            StringBuilder prefix,
-            int[] count,
-            char middle,
-            String target,
-            int n
+    private boolean dfs(
+        int pos,
+        int dummy,
+        int[] half,
+        StringBuilder left,
+        String target,
+        char middle,
+        int n
     ) {
 
-        StringBuilder left = new StringBuilder(prefix);
+        int halfLen = n / 2;
 
-        // Make remaining LEFT HALF as large as possible
-        for (int i = 25; i >= 0; i--) {
-            while (count[i] > 0) {
-                left.append((char) ('a' + i));
-                count[i]--;
-            }
-        }
+        // Left half completely created
+        if (pos == halfLen) {
 
-        // Restore counts
-        for (int i = 0; i < 26; i++) {
-            int used = 0;
+            StringBuilder palindrome = new StringBuilder();
 
-            for (int j = prefix.length(); j < left.length(); j++) {
-                if (left.charAt(j) == (char) ('a' + i)) {
-                    used++;
-                }
+            palindrome.append(left);
+
+            if (n % 2 == 1) {
+                palindrome.append(middle);
             }
 
-            count[i] += used;
+            for (int i = left.length() - 1; i >= 0; i--) {
+                palindrome.append(left.charAt(i));
+            }
+
+            return palindrome.toString().compareTo(target) > 0;
         }
 
-        StringBuilder palindrome = new StringBuilder(left);
+        // Try characters from smallest to largest
+        for (int c = 0; c < 26; c++) {
 
-        if (n % 2 == 1) {
-            palindrome.append(middle);
+            if (half[c] == 0) {
+                continue;
+            }
+
+            half[c]--;
+            left.append((char) ('a' + c));
+
+            if (dfs(pos + 1, dummy, half, left, target, middle, n)) {
+                return true;
+            }
+
+            left.deleteCharAt(left.length() - 1);
+            half[c]++;
         }
 
-        palindrome.append(left.reverse());
-
-        return palindrome.toString().compareTo(target) > 0;
+        return false;
     }
 }
