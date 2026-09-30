@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Shubh-Tamrakar/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1096-brace-expansion-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Shubh-Tamrakar/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Shubh-Tamrakar/DSA/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubh-Tamrakar/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
