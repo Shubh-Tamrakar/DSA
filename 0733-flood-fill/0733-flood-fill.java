@@ -1,45 +1,44 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        boolean vis[][] = new boolean[image.length][image[0].length];
-        int orgCol = image[sr][sc];
 
-        if (orgCol == color) {
+        int oldColor = image[sr][sc];
+
+        // Agar same color hai, kuch change nahi karna
+        if (oldColor == color) {
             return image;
         }
 
-        helper(image, sr, sc, color, orgCol, vis);
+        dfs(image, sr, sc, oldColor, color);
 
         return image;
     }
-     public static void helper(int image[][], int sr, int sc,
-                              int color, int orgCol, boolean vis[][]) {
 
-        // boundary check
-        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length) {
+    public void dfs(int[][] image, int r, int c, int oldColor, int color) {
+
+        // Out of boundary
+        if (r < 0 || r >= image.length ||
+            c < 0 || c >= image[0].length) {
             return;
         }
 
-        // already visited or different color
-        if (vis[sr][sc] || image[sr][sc] != orgCol) {
+        // Sirf oldColor wale cells ko change karna hai
+        if (image[r][c] != oldColor) {
             return;
         }
 
-        // mark visited
-        vis[sr][sc] = true;
+        // Color change
+        image[r][c] = color;
 
-        // fill new color
-        image[sr][sc] = color;
+        // Up
+        dfs(image, r - 1, c, oldColor, color);
 
-        // left
-        helper(image, sr, sc - 1, color, orgCol, vis);
+        // Down
+        dfs(image, r + 1, c, oldColor, color);
 
-        // right
-        helper(image, sr, sc + 1, color, orgCol, vis);
+        // Left
+        dfs(image, r, c - 1, oldColor, color);
 
-        // up
-        helper(image, sr - 1, sc, color, orgCol, vis);
-
-        // down
-        helper(image, sr + 1, sc, color, orgCol, vis);
+        // Right
+        dfs(image, r, c + 1, oldColor, color);
     }
 }
