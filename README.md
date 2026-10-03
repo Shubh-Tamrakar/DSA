@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Shubh-Tamrakar/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubh-Tamrakar/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shubh-Tamrakar/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1096-brace-expansion-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Shubh-Tamrakar/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubh-Tamrakar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
@@ -465,12 +467,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Shubh-Tamrakar/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubh-Tamrakar/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh-Tamrakar/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shubh-Tamrakar/DSA/tree/master/0133-clone-graph) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Shubh-Tamrakar/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubh-Tamrakar/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Prefix Sum
 |  |
