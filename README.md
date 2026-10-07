@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Shubh-Tamrakar/DSA/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh-Tamrakar/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shubh-Tamrakar/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/Shubh-Tamrakar/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Shubh-Tamrakar/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubh-Tamrakar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shubh-Tamrakar/DSA/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Shubh-Tamrakar/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Shubh-Tamrakar/DSA/tree/master/0733-flood-fill) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Shubh-Tamrakar/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0980-unique-paths-iii) |
