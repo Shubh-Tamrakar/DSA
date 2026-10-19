@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shubh-Tamrakar/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubh-Tamrakar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubh-Tamrakar/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubh-Tamrakar/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Shubh-Tamrakar/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubh-Tamrakar/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2679-sum-in-a-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubh-Tamrakar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubh-Tamrakar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubh-Tamrakar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubh-Tamrakar/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubh-Tamrakar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubh-Tamrakar/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
