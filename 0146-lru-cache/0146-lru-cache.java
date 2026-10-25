@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 class LRUCache {
@@ -14,84 +15,72 @@ class LRUCache {
         }
     }
 
-    int capacity;
     HashMap<Integer, Node> map;
-
     Node head;
     Node tail;
+    int capacity;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-
         map = new HashMap<>();
 
-        head = new Node(-1, -1);
-        tail = new Node(-1, -1);
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
 
         head.next = tail;
         tail.prev = head;
     }
 
-    void remove(Node node) {
+    // Node ko list se remove karna
+    private void remove(Node node) {
         node.prev.next = node.next;
         node.next.prev = node.prev;
     }
 
-    void addFirst(Node node) {
+    // Node ko sabse aage lana
+    private void insert(Node node) {
         node.next = head.next;
-        head.next.prev = node;
-
-        head.next = node;
         node.prev = head;
+
+        head.next.prev = node;
+        head.next = node;
     }
 
     public int get(int key) {
-
         if (!map.containsKey(key)) {
             return -1;
         }
 
         Node node = map.get(key);
 
-        // Make it most recently used
         remove(node);
-        addFirst(node);
+        insert(node);
 
         return node.value;
     }
 
     public void put(int key, int value) {
-
-        // Key already exists
         if (map.containsKey(key)) {
-
             Node node = map.get(key);
-
-            node.value = value;
-
-            // Make it most recently used
             remove(node);
-            addFirst(node);
+            node.value = value;
+            insert(node);
+        } else {
+            if (map.size() == capacity) {
+                Node lru = tail.prev;
 
-            return;
+                remove(lru);
+                map.remove(lru.key);
+            }
+
+            Node node = new Node(key, value);
+            map.put(key, node);
+            insert(node);
         }
-
-        // Cache is full
-        if (map.size() == capacity) {
-
-            Node lru = tail.prev;
-
-            remove(lru);
-            map.remove(lru.key);
-        }
-
-        // Add new node
-        Node node = new Node(key, value);
-
-        map.put(key, node);
-        addFirst(node);
     }
 }
+
+
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache obj = new LRUCache(capacity);
