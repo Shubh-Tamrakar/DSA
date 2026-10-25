@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shubh-Tamrakar/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Shubh-Tamrakar/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Shubh-Tamrakar/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0064-minimum-path-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubh-Tamrakar/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shubh-Tamrakar/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Shubh-Tamrakar/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shubh-Tamrakar/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shubh-Tamrakar/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Shubh-Tamrakar/DSA/tree/master/0133-clone-graph) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubh-Tamrakar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shubh-Tamrakar/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Shubh-Tamrakar/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Shubh-Tamrakar/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shubh-Tamrakar/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Shubh-Tamrakar/DSA/tree/master/0115-distinct-subsequences) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shubh-Tamrakar/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shubh-Tamrakar/DSA/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Shubh-Tamrakar/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shubh-Tamrakar/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
