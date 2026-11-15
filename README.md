@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Shubh-Tamrakar/DSA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/Shubh-Tamrakar/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubh-Tamrakar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Shubh-Tamrakar/DSA/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/Shubh-Tamrakar/DSA/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-get-the-maximum-score](https://github.com/Shubh-Tamrakar/DSA/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/Shubh-Tamrakar/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubh-Tamrakar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Shubh-Tamrakar/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Shubh-Tamrakar/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubh-Tamrakar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shubh-Tamrakar/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubh-Tamrakar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh-Tamrakar/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Shubh-Tamrakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shubh-Tamrakar/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubh-Tamrakar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh-Tamrakar/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubh-Tamrakar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shubh-Tamrakar/DSA/tree/master/1872-stone-game-viii) |
